@@ -17,3 +17,7 @@
 4. รัน script `py change_logo.py` เพื่อเปลี่ยนรูป Logo ลงใน Project อัตโนมัติ 
 5. รัน script `py change_software.py` เพื่อเปลี่ยนรูป Software ลงใน Project อัตโนมัติ
 6. Build โปรแกรมใหม่
+
+### เปลี่ยนสี Menu
+1. ไปที่ไฟล์ `69-ImGui-Loader\include\69\menu\Theme.h`
+2. แก้ไขค่าสี `const ImVec4` ต่างๆได้เลย
